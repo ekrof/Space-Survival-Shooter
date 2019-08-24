@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 17e674c2406684235adc1fbd0e4a3d4c
+timeCreated: 1446661501
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - crab: {fileID: 139978, guid: 3e8b1df1479f60b449edeb4eaaee1296, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
